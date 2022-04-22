@@ -4,7 +4,7 @@
 	<TITLE>Electric Vehicles(Trucks)</TITLE>
 	<META HTTP-EQUIV = "REFRESH CONTENT = "2">
 </HEAD>
-<imag src="file:///C:/Users/user/Desktop/web%20ass/Photos/back1.webp">
+<img src="file:///C:/Users/user/Desktop/web%20ass/Photos/back1.webp">
 <style>
 
 
